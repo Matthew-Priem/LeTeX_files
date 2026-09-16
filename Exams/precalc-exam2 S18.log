@@ -1,0 +1,1166 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  12 SEP 2019 17:30
+entering extended mode
+**"./precalc-exam2 S18.tex"
+("precalc-exam2 S18.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/exam\exam.cls"
+Document Class: exam 2017/12/17 Version 2.603 by Philip Hirschhorn
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cl
+s"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo
+"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count88
+\c@latest@ques=\count89
+\c@ques@end=\count90
+\c@last@object=\count91
+\c@incmp@ques=\count92
+\c@next@ques=\count93
+\c@next@page=\count94
+\c@tmp@hlfcntr=\count95
+\c@ifpos@cntr=\count96
+\c@question=\count97
+\c@partno=\count98
+\c@subpart=\count99
+\c@subsubpart=\count100
+\c@choice=\count101
+\c@numpoints=\count102
+\c@numbonuspoints=\count103
+\c@pointsof@thisquestion=\count104
+\c@bonuspointsof@thisquestion=\count105
+\c@numquestions=\count106
+\c@numparts=\count107
+\c@numsubparts=\count108
+\c@numsubsubparts=\count109
+\c@Curr@Page=\count110
+\c@@pagepoints=\count111
+\c@@pagebonuspoints=\count112
+\c@pageof@pagepoints=\count113
+\c@pageof@pagebonuspoints=\count114
+\c@latest@points=\count115
+\c@latest@bonuspoints=\count116
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count117
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count118
+\@cellwidth=\skip67
+\c@tbl@points=\count119
+\c@tbl@bonuspoints=\count120
+\c@pq@index=\count121
+\c@pq@index@pts=\count122
+\c@pq@index@bpts=\count123
+\c@num@cols=\count124
+\c@num@rows=\count125
+\c@current@row=\count126
+\c@cols@done=\count127
+\exam@box=\box27
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count128
+\exam@FrameRule=\dimen104
+\exam@FrameSep=\dimen105
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath
+.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.
+sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count129
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count130
+\leftroot@=\count131
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count132
+\DOTSCASE@=\count133
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count134
+\c@MaxMatrixCols=\count135
+\dotsspace@=\muskip10
+\c@parentequation=\count136
+\dspbrk@lvl=\count137
+\tag@help=\toks20
+\row@=\count138
+\column@=\count139
+\maxfields@=\count140
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.
+sty"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count141
+\mult@box=\box30
+\multicol@leftmargin=\dimen117
+\c@unbalance=\count142
+\c@collectmore=\count143
+\doublecol@number=\count144
+\multicoltolerance=\count145
+\multicolpretolerance=\count146
+\full@width=\dimen118
+\page@free=\dimen119
+\premulticols=\dimen120
+\postmulticols=\dimen121
+\multicolsep=\skip71
+\multicolbaselineskip=\skip72
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen122
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count147
+\c@finalcolumnbadness=\count148
+\last@try=\dimen123
+\multicolovershoot=\dimen124
+\multicolundershoot=\dimen125
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count149
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.s
+ty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def
+"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu
+"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comment
+.sty"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlay
+er\tikz.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\
+pgf.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gfrcs.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-common.tex"
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen126
+\pgfutil@tempdimb=\dimen127
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-common-lists.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-latex.def"
+\pgfutil@abb=\box56
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty
+"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfrcs.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revis
+ion.tex")
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\
+pgfcore.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer
+\pgfsys.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys.code.tex"
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen128
+\pgf@y=\dimen129
+\pgf@xa=\dimen130
+\pgf@ya=\dimen131
+\pgf@xb=\dimen132
+\pgf@yb=\dimen133
+\pgf@xc=\dimen134
+\pgf@yc=\dimen135
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count150
+\c@pgf@countb=\count151
+\c@pgf@countc=\count152
+\c@pgf@countd=\count153
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count154
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgf.cfg"
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count155
+\pgfsyssoftpath@bigbuffer@items=\count156
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.s
+ty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcore.code.tex"
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athcalc.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athutil.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athparser.code.tex"
+\pgfmath@dimen=\dimen136
+\pgfmath@count=\count157
+\pgfmath@box=\box57
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.basic.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.trigonometric.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.random.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.comparison.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.base.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.round.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.misc.code.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.integerarithmetics.code.tex")))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count158
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen137
+\pgf@picmaxx=\dimen138
+\pgf@picminy=\dimen139
+\pgf@picmaxy=\dimen140
+\pgf@pathminx=\dimen141
+\pgf@pathmaxx=\dimen142
+\pgf@pathminy=\dimen143
+\pgf@pathmaxy=\dimen144
+\pgf@xx=\dimen145
+\pgf@xy=\dimen146
+\pgf@yx=\dimen147
+\pgf@yy=\dimen148
+\pgf@zx=\dimen149
+\pgf@zy=\dimen150
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen151
+\pgf@path@lasty=\dimen152
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen153
+\pgf@shorten@start@additional=\dimen154
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count159
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen155
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen156
+\pgf@pt@y=\dimen157
+\pgf@pt@temp=\dimen158
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen159
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen160
+\pgf@sys@shading@range@num=\count160
+\pgf@shadingcount=\count161
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box61
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box62
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibili
+ty\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen161
+\pgf@nodesepend=\dimen162
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibili
+ty\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gffor.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gfkeys.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeys.code.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmat
+h.sty"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgffor.code.tex"
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex")
+\pgffor@iter=\dimen163
+\pgffor@skip=\dimen164
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz\tikz.code.tex"
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count162
+\pgfplotmarksize=\dimen165
+)
+\tikz@lastx=\dimen166
+\tikz@lasty=\dimen167
+\tikz@lastxsaved=\dimen168
+\tikz@lastysaved=\dimen169
+\tikzleveldistance=\dimen170
+\tikzsiblingdistance=\dimen171
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count163
+\tikznumberofchildren=\count164
+\tikznumberofcurrentchild=\count165
+\tikz@fig@count=\count166
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count167
+\pgfmatrixcurrentcolumn=\count168
+\pgf@matrix@numberofcolumns=\count169
+)
+\tikz@expandcount=\count170
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryangles.code.tex"
+File: tikzlibraryangles.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryquotes.code.tex"
+File: tikzlibraryquotes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-euclide.sty"
+Package: tkz-euclide 2011/06/01 1.16 c for plots 2d 
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-ba
+se.sty"
+Package: tkz-base 2018/09/19 1.16 d tkz-base
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\arrowsize=\dimen172
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+\pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+/shapes\pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen173
+\pgfdecoratedremainingdistance=\dimen174
+\pgfdecoratedinputsegmentcompleteddistance=\dimen175
+\pgfdecoratedinputsegmentremainingdistance=\dimen176
+\pgf@decorate@distancetomove=\dimen177
+\pgf@decorate@repeatstate=\count171
+\pgfdecorationsegmentamplitude=\dimen178
+\pgfdecorationsegmentlength=\dimen179
+)
+\tikz@lib@dec@box=\box67
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+/decorations\pgflibrarydecorations.markings.code.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarypatterns.code.tex"
+File: tikzlibrarypatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+\pgflibrarypatterns.code.tex"
+File: pgflibrarypatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/numprint\numpri
+nt.sty"
+Package: numprint 2012/08/20 v1.39 Print numbers (HH)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box68
+\extrarowheight=\dimen181
+\NC@list=\toks37
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box69
+)
+\c@nprt@mantissa@digitsbefore=\count172
+\c@nprt@mantissa@digitsafter=\count173
+\c@nprt@exponent@digitsbefore=\count174
+\c@nprt@exponent@digitsafter=\count175
+\nprt@digitwidth=\skip75
+\nprt@sepwidth=\skip76
+\nprt@decimalwidth=\skip77
+\nprt@blockwidth=\skip78
+\nprt@digittoks=\toks38
+\nprt@pretoks=\toks39
+\nprt@posttoks=\toks40
+\nprt@thisdigit=\count176
+\nprt@curpos=\count177
+\nprt@rndpos=\count178
+\c@nprt@digitsfirstblock=\count179
+\c@nprt@blockcnt=\count180
+\c@nprt@cntprint=\count181
+ No configuration file `numprint.cfg' found.)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\defpattern.s
+ty"
+Package: defpattern 1994/10/12
+\actioncount=\count182
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-basic.sty
+"
+Package: fp-basic 1996/05/13
+\FP@xs=\count183
+\FP@xia=\count184
+\FP@xib=\count185
+\FP@xfa=\count186
+\FP@xfb=\count187
+\FP@rega=\count188
+\FP@regb=\count189
+\FP@regs=\count190
+\FP@times=\count191
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-addons.st
+y"
+Package: fp-addons 1995/03/15
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+) ("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-exp.sty
+"
+Package: fp-exp 1995/04/03
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty
+"
+Package: fp-trigo 1995/04/14
+) ("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-pas.sty
+"
+Package: fp-pas 1994/08/29
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-random.st
+y"
+Package: fp-random 1995/02/23
+\FPseed=\count192
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+) ("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-upn.sty
+"
+Package: fp-upn 1996/10/21
+) ("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eval.st
+y"
+Package: fp-eval 1995/04/03
+))
+\tkzRadius=\dimen182
+\tkzLength=\dimen183
+\tkz@radi=\dimen184
+\tkz@ax=\dimen185
+\tkz@ay=\dimen186
+\tkz@bx=\dimen187
+\tkz@by=\dimen188
+\tkz@cx=\dimen189
+\tkz@cy=\dimen190
+\tkz@dx=\dimen191
+\tkz@dy=\dimen192
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-to
+ols-utilities.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-to
+ols-arith.tex"
+File: tkz-tool-arith.tex tkz-tool-arith 1.161 d
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-to
+ols-base.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-to
+ols-misc.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-to
+ols-math.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-ob
+j-points.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-ob
+j-segments.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-base\tkz-ob
+j-marks.tex"
+\tkz@cntmk=\count193
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-tools-intersections.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-tools-transformations.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-lines.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-lib-symbols.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-circles.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-addpoints.tex"))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-polygons.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-vectors.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-arcs.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-sectors.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-angles.tex")
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tkz-euclide\tkz
+-obj-protractor.tex") ("precalc-exam2 S18.aux")
+\openout1 = `"precalc-exam2 S18.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 36.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen193
+\scratchbox=\box70
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen194
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
+arerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
+finekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
+tkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
+cmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/cd7926ej/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2] [3] Excluding 'comment' comment. [4]
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+<pic1.png, id=26, 628.3475pt x 562.1pt>
+File: pic1.png Graphic file (type png)
+<use pic1.png>
+Package pdftex.def Info: pic1.png  used on input line 226.
+(pdftex.def)             Requested size: 361.34999pt x 323.24788pt.
+[5 <./pic1.png>]
+This exam contains 12 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 44 points.
+This exam has a total of 0 bonus points.
+("precalc-exam2 S18.aux") ) 
+Here is how much of TeX's memory you used:
+ 18726 strings out of 492902
+ 381608 string characters out of 3122405
+ 448299 words of memory out of 3000000
+ 22209 multiletter control sequences out of 15000+200000
+ 6281 words of font info for 25 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,69p,433b,1074s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\cd7926ej\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/cd7926ej/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cd7926ej/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Use
+rs/cd7926ej/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/cd7926ej/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><C:/Users/cd7926ej/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cd7926ej/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/cd7926ej/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/c
+d7926ej/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/cd7926ej/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb>
+Output written on "precalc-exam2 S18.pdf" (5 pages, 199174 bytes).
+PDF statistics:
+ 63 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+

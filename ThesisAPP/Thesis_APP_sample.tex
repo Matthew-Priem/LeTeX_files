@@ -1,0 +1,74 @@
+\documentclass{msuappclass}
+% Above calls the file msuappclass.cls which provides the "class", or type of document.  This gives a format of the APP according to the Minnesota State University regulations (see http://grad.mnsu.edu/capstone/guidelines.html ).  
+\usepackage{msuappstyle}
+% Above calls the file msuappstyle.sty file which creates the title page and provides the header and footer settings (mainly to provide the page number in the upper right corner of each page).  It also calls on all of the style files that you should need for the math symbols, etc.
+
+
+\usepackage{amscd}
+\usepackage{amsmath}
+%\usepackage{graphics}
+\usepackage[rightcaption]{sidecap}
+%\usepackage{setspace}
+%\usepackage[author-year]{amsrefs}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+
+
+\theoremstyle{theorem}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}[section]
+
+
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\rats}{\mathbb{Q}}
+\newcommand{\nats}{\mathbb{N}}
+\newcommand{\ints}{\mathbb{Z}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\invlim}[2]{\underleftarrow{Lim}(#1, #2)}
+\newcommand{\drctlim}[2]{\varinjlim{(#1,#2)}}   %$\drctlim{a}{b}$
+
+\begin{document}
+
+% \pagenumber{roman} numbers the pages in roman style: i, ii, etc.   
+\pagenumbering{roman}
+
+%  \apptitle calls on a command created in the style file "msuapp".  This file handles much of the formatting of the paper, and also builds the title page of the APP.  The first field is the name of the paper.  Second field is your name.  Third field is Master of Arts or Master of Sciences.  Last field is the date you will graduate.
+
+\apptitle
+	{\sc Title}
+	{Your name}
+	{thesis} %thesis (or) dissertation (or) alternative plan paper    
+	{Master of Arts}
+	{Information Technology} %Name of your degree
+	{Month Year}
+
+\include{sig}
+%\include{abstract}
+
+% These are the possible sections of your paper.  I didn't use the parts that have been percentaged, but you can unpercentage them if needed.  Anything that should be before "Page 1", should be included before "\pagenumbering{arabic}".
+
+%\include{ack}\
+\tableofcontents
+\listoffigures
+\include{abstract}
+
+% \pagenumber{arabic} restarts the numbering and numbers the pages at 1.
+
+
+\include{chap1}
+\include{chap2}
+
+ 
+% \include{figures}
+ %\include{app1}
+  %\include{footnotes}
+
+
+\bibliography{ref.bib}
+
+\bibliographystyle{amsalpha}
+
+\end{document}

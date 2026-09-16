@@ -1,0 +1,223 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  12 SEP 2019 17:20
+entering extended mode
+**"./Cover Letter Sample.tex"
+("Cover Letter Sample.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\letter.cls
+"
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo
+"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count80
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wallpaper\wallp
+aper.sty"
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count81
+\calc@Bcount=\count82
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count83
+\calc@Cskip=\skip43
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic
+.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbe
+gshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
+arerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.s
+ty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\wpXoffset=\skip44
+\wpYoffset=\skip45
+\tileXoffset=\skip46
+\tileYoffset=\skip47
+\tilewidth=\skip48
+\tileheight=\skip49
+\tileX=\skip50
+\tileY=\skip51
+) ("Cover Letter Sample.aux")
+\openout1 = `"Cover Letter Sample.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+\AtBeginShipoutBox=\box27
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count84
+\scratchdimen=\dimen108
+\scratchbox=\box28
+\nofMPsegments=\count85
+\nofMParguments=\count86
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count87
+\MPscratchDim=\dimen109
+\MPnumerator=\count88
+\makeMPintoPDFobject=\count89
+\everyMPtoPDFconversion=\toks16
+)
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
+finekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
+tkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
+cmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\cd7926ej\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 58.
+<msu_math_letterhead.pdf, id=1, 614.295pt x 794.97pt>
+File: msu_math_letterhead.pdf Graphic file (type pdf)
+<use msu_math_letterhead.pdf>
+Package pdftex.def Info: msu_math_letterhead.pdf  used on input line 65.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [1
+
+{C:/Users/cd7926ej/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./msu_ma
+th_letterhead.pdf>] ("Cover Letter Sample.aux") ) 
+Here is how much of TeX's memory you used:
+ 2160 strings out of 492902
+ 31852 string characters out of 3122405
+ 96845 words of memory out of 3000000
+ 6058 multiletter control sequences out of 15000+200000
+ 6376 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,39p,290b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/cd7926ej/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "Cover Letter Sample.pdf" (1 page, 108977 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

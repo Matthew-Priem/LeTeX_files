@@ -1,0 +1,77 @@
+\usepackage{fancyhdr, epsfig, theorem, epic}
+\usepackage{amsmath, amsfonts}
+\usepackage{latexsym, graphicx, amssymb, txfonts, pxfonts}
+\usepackage{latexsym}%\usepackage{palatino}
+\usepackage{subfigure}
+%  In the TeX environment, different pictures, figures, tables, etc are considered "floats" since they must be kept all in one piece, so if there isn't enough room they are "floated" to the next page, etc.  These specifications determine how large th
+\floatsep = .29in
+\textfloatsep = \floatsep
+\intextsep = \floatsep
+
+% If you want to keep all your graphics in a separate folder, use (otherwise % it out)
+ \graphicspath{{GraphicTeX/}}
+
+%\bibliographystyle{abbrv}
+
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+% Almost everything is double spaced.
+%
+\newcommand{\spacing}{1.8}
+\renewcommand{\baselinestretch}{\spacing}
+
+% You can play around with the headers and footers, but mainly this is just so we have the page number in the upper right hand corner for all pages except the first page of the chapter where it should be in bottom center.
+\pagestyle{fancy}
+%    \fancyhf used without arguments should be placed first to get rid of the defaults (i.e., in "book" class, the default header is the chapter name on the left and page number on the right, while in "report" class, the default footer is a page number in the center).
+\fancyhf{} 
+%   The next two commands get rid of the obligatory upper and lower lines in the header by telling it the lines should be 0inches.  You can let the lines run free by deleting these two commands.
+\renewcommand{\headrulewidth}{0in}
+\renewcommand{\footrulewidth}{0in}
+%   These commands are simply telling the program what to put into the headers and footers.  \lhead is the header on the left half of the page, \rhead is on the right half, similar for the footers.
+\lhead[\fancyplain{}{}] %
+			{\fancyplain{}{}}
+\rhead[\fancyplain{}{}] %
+			{\fancyplain{}{\thepage}}
+\lfoot[\fancyplain{}{}] %
+			{\fancyplain{}{}}
+\rfoot[\fancyplain{}{}] %
+			{\fancyplain{}{}}
+\addtolength{\skip\footins}{1.5in}
+
+% Command for creating the APP title page in accordance with the
+% requirements of the School of Graduate Studies.
+%
+
+\newcommand{\apptitle}[6]{%
+\thispagestyle{empty}
+\begin{center}
+
+\renewcommand{\baselinestretch}{1.0}%
+\textbf{\Large #1}
+\renewcommand{\baselinestretch}{\spacing}%
+
+\vspace{1.0cm}
+
+by \\
+ #2
+
+\vspace{\fill}
+
+\vspace{\fill}
+
+A #3 submitted in partial fulfillment of the requirements for the degree of \\
+#4 \\
+In
+\\ #5
+
+\vspace{\fill}
+
+Minnesota State University, Mankato \\
+Mankato, Minnesota
+
+\vspace{\fill}
+
+#6 \\
+\end{center}
+}
